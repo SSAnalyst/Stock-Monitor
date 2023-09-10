@@ -6,7 +6,7 @@ The Api used for stock data is IEX cloud api's.
 
 ## Visit the link Below for live demo
 
-The link to site :- 
+The link to site :-  https://stock-monitor.netlify.app/
 
 
 
